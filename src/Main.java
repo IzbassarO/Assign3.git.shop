@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Diyar");
         System.out.println("Dias and Izbassar");
         System.out.println("aggagaga");
+        System.out.println();
     }
 }
