@@ -1,2 +1,10 @@
 public class Jav {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
+        System.out.println("Diyar");
+        System.out.println("Dias and Izbassar");
+        System.out.println("aggagaga");
+        System.out.println();
+        System.out.println();
+    }
 }
